@@ -1,0 +1,388 @@
+.a1{
+    width: 500px;
+    height: 80px;
+    background-color: #8a2be2;
+    margin: 0 auto ;
+}
+.a2{
+    width: 500px;
+    height: 80px;
+    background-color: #2aa54f;
+}
+.a7{
+    width: 100px;
+    height: 80px;
+    background-color: #00ffff;
+    float: left;
+}
+.a12{
+    width: 100px;
+    height: 40px;
+    background-color: #b8860b;
+}
+.a14{
+    width: 33.33px;
+    height: 40px;
+    background-color: #ff00ff;
+    float: left;
+}
+.a15{
+    width: 33.33px;
+    height: 40px;
+    background-color: #64579e;
+    float: left;
+}
+.a16{
+    width: 33.33px;
+    height: 40px;
+    background-color: #b982b9;
+    float: left;
+}
+.a13{
+    width: 100px;
+    height: 40px;
+    background-color: #b80b6a;
+}
+.a8{
+    width: 100px;
+    height: 80px;
+    background-color: #9900ff;
+    float: left;
+}
+.a17{
+    width: 100px;
+    height: 40px;
+    background-color: #5fc45f;
+}
+.a18{
+    width: 100px;
+    height: 40px;
+    background-color: #9da1d8;
+}
+
+.a9{
+    width: 100px;
+    height: 80px;
+    background-color: #0004ff;
+    float: left;
+}
+.a19{
+    width: 100px;
+    height: 40px;
+    background-color: #20b2aa;
+}
+.a20{
+    width: 100px;
+    height: 40px;
+    background-color: #093533;
+}
+.a10{
+    width: 100px;
+    height: 80px;
+    background-color: #ff0040;
+    float: left;
+}
+.a21{
+    width: 100px;
+    height: 40px;
+    background-color: #ff00ff;
+}
+.a23{
+    width: 50px;
+    height: 40px;
+    background-color: #f5fffa;
+    float: left;
+}
+.a24{
+    width: 50px;
+    height: 40px;
+    background-color: #f5fffa;
+    float: left;
+}
+.a22{
+    width: 100px;
+    height: 40px;
+    background-color: #ff0000;
+}
+.a25{
+    width: 50px;
+    height: 40px;
+    background-color: #636d68;
+    float: left;
+}
+.a26{
+    width: 50px;
+    height: 40px;
+    background-color: #3ee08f;
+    float: left;
+}
+.a11{
+    width: 100px;
+    height: 80px;
+    background-color: #00ffff;
+    float: left;
+}
+.a27{
+    width: 50px;
+    height: 80px;
+    background-color: #da70d6;
+    float: left;
+}
+.a29{
+    width: 50px;
+    height: 40px;
+    background-color: #663399;
+}
+.a30{
+    width: 50px;
+    height: 40px;
+    background-color: #a0522d;
+}
+.a28{
+    width: 50px;
+    height: 80px;
+    background-color: #800080;
+    float: left;
+}
+.a3{
+    width: 500px;
+    height: 80px;
+    background-color: #822aa5;
+}
+.a31{
+    width: 250px;
+    height: 80px;
+    background-color: #9acd32;
+    float: left;
+}
+.a35{
+    width: 250px;
+    height: 40px;
+    background-color: #228b22;
+}
+.a37{
+    width: 125px;
+    height: 40px;
+    background-color: #000080;
+    float: left;
+}
+.a38{
+    width: 125px;
+    height: 40px;
+    background-color: #800000;
+    float: left;
+}
+.a36{
+    width: 250px;
+    height: 40px;
+    background-color: #f08080;
+}
+.a39{
+    width: 62.5px;
+    height: 40px;
+    background-color: #ee82ee;
+    float: left;
+}
+.a40{
+    width: 62.5px;
+    height: 40px;
+    background-color: #270327;
+    float: left;
+}
+.a41{
+    width: 62.5px;
+    height: 40px;
+    background-color: #6b5e6b;
+    float: left;
+}
+.a42{
+    width: 62.5px;
+    height: 40px;
+    background-color: #1a17ce;
+    float: left;
+}
+
+.a32{
+    width: 125px;
+    height: 80px;
+    background-color: #8a2be2;
+    float: left;
+}
+.a34{
+    width: 125px;
+    height: 80px;
+    background-color: #ff1493;
+    float: left;
+}
+.a4{
+    width: 500px;
+    height: 80px;
+    background-color: #2aa576;
+}
+.a43{
+    width: 166.66px;
+    height: 80px;
+    background-color: #dda0dd;
+    float: left;
+}
+.a46{
+    width: 166.66px;
+    height: 40px;
+    background-color: #62bbc7;
+}
+.a47{
+    width: 166.66px;
+    height: 40px;
+    background-color: #2aaabb;
+}
+.a44{
+    width: 166.66px;
+    height: 80px;
+    background-color: #aa0daa;
+    float: left;
+}
+.a45{
+    width: 166.66px;
+    height: 80px;
+    background-color: #29aa5a;
+    float: left;
+}
+.a48{
+    width: 166.66px;
+    height:40px ;
+    background-color: purple;
+
+}
+.a49{
+    width: 166.66px;
+    height: 40px;
+    background-color: #974997;
+}
+.a50{
+    width: 83.33px;
+    height: 40px;
+    background-color: #2e8b57;
+    float: left;
+}
+.a51{
+    width:83.33px ;
+    height: 40px;
+    background-color: #302388;
+    float: left;
+}
+.a5{
+    width: 500px;
+    height: 80px;
+    background-color: #a52a2a;
+}
+.a52{
+    width: 320px;
+    height: 80px;
+    background-color: #47be23;
+    float: left;
+}
+.a55{
+    width: 320px;
+    height: 40px;
+    background-color: #4836bd;
+}
+.a57{
+    width: 106.6px;
+    height: 40px;
+    background-color: #4169e1;
+    float: left;
+}
+.a58{
+    width: 106.6px;
+    height: 40px;
+    background-color: #728ee2;
+    float: left;
+}
+.a59{
+    width: 106.6px;
+    height: 40px;
+    background-color: #fa8072;
+    float: left;
+}
+.a56{
+    width: 320px;
+    height: 40px;
+    background-color: #008080;
+}
+.a60{
+    width: 160px;
+    height: 40px;
+    background-color: #ca2d2d;
+    float: left;
+}
+.a61{
+    width: 160px;
+    height: 40px;
+    background-color: #bc8f8f;
+    float: left;
+}
+.a53{
+    width: 90px;
+    height: 80px;
+    background-color: #ffff00;
+    float: left;
+}
+.a54{
+    width: 90px;
+    height: 80px;
+    background-color: #ff6347;
+    float: left;
+}
+.a62{
+    width: 90px;
+    height: 40px;
+    background-color: #00ff7f;
+}
+.a63{
+    width: 90px;
+    height: 40px;
+    background-color: #8abea4;
+}
+.a6{
+    width: 500px;
+    height: 80px;
+    background-color: #6ca52a;
+}
+.a64{
+    width: 166.66px;
+    height: 80px;
+    background-color: #8b4513;
+    float: left;
+}
+.a67{
+    width: 166.66px;
+    height: 40px;
+    background-color: #afeeee;
+}
+.a68{
+    width: 166.66px;
+    height: 40px;
+    background-color: #29e0e0;
+}
+.a65{
+    width: 166.66px;
+    height: 80px;
+    background-color: #f06f14;
+    float: left;
+}
+.a69{
+    width: 166.66px;
+    height: 40px;
+    background-color: #2cc72c;
+}
+.a70{
+    width: 166.66px;
+    height: 40px;
+    background-color: #465246;
+}
+.a66{
+    width: 166.66px;
+    height: 80px;
+    background-color: #8b1331;
+    float: left;
+}
